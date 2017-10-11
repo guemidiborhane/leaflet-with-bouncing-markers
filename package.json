@@ -1,0 +1,9 @@
+{
+  "name": "leaflet-with-bouncing-markers",
+  "version": "0.1.0",
+  "description": "Add bouncing markers to leaflet.",
+  "main": "src/index.js",
+  "repository": "https://github.com/guemidiborhane/leaflet-with-bouncing-markers.git",
+  "author": "Borhane E. Guemidi <guemidiborhane@gmail.com>",
+  "license": "MIT"
+}
